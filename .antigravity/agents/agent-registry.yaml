@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-american-samoa-canal-and-intervention-historian
-  name: American Samoa Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-american-samoa-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_as_001
+    name: American Samoa Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_002
+    name: American Samoa Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_003
+    name: American Samoa Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_004
+    name: American Samoa Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_005
+    name: American Samoa Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_006
+    name: American Samoa Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_007
+    name: American Samoa Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_008
+    name: American Samoa Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_009
+    name: American Samoa Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_010
+    name: American Samoa Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_011
+    name: American Samoa Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_012
+    name: American Samoa Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_013
+    name: American Samoa Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_014
+    name: American Samoa Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_015
+    name: American Samoa Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_016
+    name: American Samoa Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_017
+    name: American Samoa Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_018
+    name: American Samoa Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_019
+    name: American Samoa Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_020
+    name: American Samoa Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_021
+    name: American Samoa Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_022
+    name: American Samoa Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_023
+    name: American Samoa Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_024
+    name: American Samoa Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_025
+    name: American Samoa Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_026
+    name: American Samoa Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_027
+    name: American Samoa Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_028
+    name: American Samoa Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_029
+    name: American Samoa Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_030
+    name: American Samoa Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_031
+    name: American Samoa Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_032
+    name: American Samoa Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_033
+    name: American Samoa Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_034
+    name: American Samoa Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_035
+    name: American Samoa Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_036
+    name: American Samoa Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_037
+    name: American Samoa Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_038
+    name: American Samoa Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_039
+    name: American Samoa Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_040
+    name: American Samoa Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_041
+    name: American Samoa Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_042
+    name: American Samoa Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_043
+    name: American Samoa Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_044
+    name: American Samoa Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_045
+    name: American Samoa Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_046
+    name: American Samoa Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_047
+    name: American Samoa Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_048
+    name: American Samoa Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_049
+    name: American Samoa Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_050
+    name: American Samoa Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_051
+    name: American Samoa Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_052
+    name: American Samoa Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_053
+    name: American Samoa Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_054
+    name: American Samoa Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_055
+    name: American Samoa Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_056
+    name: American Samoa Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_057
+    name: American Samoa Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_058
+    name: American Samoa Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_059
+    name: American Samoa Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_060
+    name: American Samoa Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_061
+    name: American Samoa Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_062
+    name: American Samoa Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_063
+    name: American Samoa Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_064
+    name: American Samoa Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_065
+    name: American Samoa Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_066
+    name: American Samoa Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_067
+    name: American Samoa Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_068
+    name: American Samoa Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_069
+    name: American Samoa Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_070
+    name: American Samoa Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_071
+    name: American Samoa Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_072
+    name: American Samoa Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_073
+    name: American Samoa Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_074
+    name: American Samoa Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_075
+    name: American Samoa Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_076
+    name: American Samoa Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_077
+    name: American Samoa Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_078
+    name: American Samoa Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_079
+    name: American Samoa Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_080
+    name: American Samoa Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_081
+    name: American Samoa Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_082
+    name: American Samoa Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_083
+    name: American Samoa Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_084
+    name: American Samoa Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_085
+    name: American Samoa Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_086
+    name: American Samoa Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_087
+    name: American Samoa Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_088
+    name: American Samoa Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_089
+    name: American Samoa Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_090
+    name: American Samoa Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_091
+    name: American Samoa Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_092
+    name: American Samoa Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_093
+    name: American Samoa Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_094
+    name: American Samoa Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_095
+    name: American Samoa Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_096
+    name: American Samoa Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_097
+    name: American Samoa Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_098
+    name: American Samoa Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_099
+    name: American Samoa Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_100
+    name: American Samoa Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_101
+    name: American Samoa Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_102
+    name: American Samoa Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_103
+    name: American Samoa Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_104
+    name: American Samoa Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_105
+    name: American Samoa Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_106
+    name: American Samoa Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_107
+    name: American Samoa Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_108
+    name: American Samoa Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_109
+    name: American Samoa Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_110
+    name: American Samoa Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_111
+    name: American Samoa Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_112
+    name: American Samoa Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_113
+    name: American Samoa Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_114
+    name: American Samoa Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_115
+    name: American Samoa Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_116
+    name: American Samoa Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_117
+    name: American Samoa Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_118
+    name: American Samoa Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_119
+    name: American Samoa Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_120
+    name: American Samoa Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_121
+    name: American Samoa Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_122
+    name: American Samoa Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_123
+    name: American Samoa Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_124
+    name: American Samoa Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_125
+    name: American Samoa Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_126
+    name: American Samoa Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_127
+    name: American Samoa Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_128
+    name: American Samoa Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_129
+    name: American Samoa Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_130
+    name: American Samoa Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_131
+    name: American Samoa Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_132
+    name: American Samoa Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_133
+    name: American Samoa Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_134
+    name: American Samoa Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_135
+    name: American Samoa Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_136
+    name: American Samoa Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_137
+    name: American Samoa Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_138
+    name: American Samoa Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_139
+    name: American Samoa Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_140
+    name: American Samoa Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_141
+    name: American Samoa Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_142
+    name: American Samoa Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_143
+    name: American Samoa Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_144
+    name: American Samoa Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_145
+    name: American Samoa Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_146
+    name: American Samoa Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_147
+    name: American Samoa Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_148
+    name: American Samoa Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_149
+    name: American Samoa Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_150
+    name: American Samoa Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_151
+    name: American Samoa Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_152
+    name: American Samoa Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_153
+    name: American Samoa Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_154
+    name: American Samoa Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_155
+    name: American Samoa Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_156
+    name: American Samoa Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_157
+    name: American Samoa Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_158
+    name: American Samoa Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_159
+    name: American Samoa Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_160
+    name: American Samoa Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_161
+    name: American Samoa Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_162
+    name: American Samoa Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_163
+    name: American Samoa Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_164
+    name: American Samoa Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_165
+    name: American Samoa Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_166
+    name: American Samoa Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_167
+    name: American Samoa Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_168
+    name: American Samoa Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_169
+    name: American Samoa Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_as_170
+    name: American Samoa Agent 170
+    status: ACTIVE_SCAFFOLD
