@@ -1,0 +1,12 @@
+{
+  "url": "https://www.ohchr.org/en/hr-bodies/upr/upr-home",
+  "final_url": "https://www.ohchr.org/en/hr-bodies/upr/upr-home",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 84317,
+  "sha256": "40d44944be61278e2c3e7561e1470fea3cc8baf6b7182d1bb0e13565d4cb936d",
+  "captured_at": "2026-11-22T16:37:22.438664Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}
