@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=american+samoa+colonial+naval+administration",
+  "final_url": "https://www.loc.gov/item/?q=american+samoa+colonial+naval+administration",
+  "title": "Library of Congress - American Samoa",
+  "fetched_at": "2026-11-23T09:14:53.823357Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44832,
+  "sha256": "f27c84a6b68daa88d2582a2cfed0eefccac4f2c2d4051abbcfa053f2c8e2babc",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}
